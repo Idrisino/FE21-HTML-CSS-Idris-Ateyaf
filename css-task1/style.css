@@ -1,0 +1,22 @@
+div {
+    border: 1px;
+    margin: 5px;
+}
+
+#third p {
+    display: none;
+}
+
+h1 {
+    display: none;
+}
+
+#second > div {
+    visibility: hidden;
+}
+
+img {
+    visibility: visible;
+    width: 100%;
+    height: 100%;
+}
