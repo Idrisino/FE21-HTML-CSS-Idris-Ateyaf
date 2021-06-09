@@ -7,9 +7,17 @@ body {
     border: none;
 }
 
+nav {
+    background-color:rgb(72, 67, 233);
+}
+
 ul {
     display: flex;
     list-style-type: none;
+}
+
+ul li {
+    padding: 1rem;
 }
 
 ul li a {
@@ -31,3 +39,13 @@ h1 {
     text-align: center;
 }
 
+/* contact-form */
+
+form {
+    margin: 0 auto;
+    width: 80%;
+}
+
+textarea .contact-form {
+    columns: 5;
+}
