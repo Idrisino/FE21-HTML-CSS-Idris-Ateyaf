@@ -1,0 +1,27 @@
+div {
+    border: 1px;
+    border-color: black;
+    margin: 5px;
+}
+
+#third p {
+    visibility: visible;
+}
+
+h1 {
+    visibility: visible;
+}
+
+#second > div {
+    visibility: visible;
+}
+
+img {
+    visibility: visible;
+    width: 25%;
+    height: 25%;
+}
+
+#first p {
+    font-size: larger;
+}
